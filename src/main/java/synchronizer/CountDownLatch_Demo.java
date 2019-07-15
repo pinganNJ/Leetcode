@@ -4,12 +4,11 @@ import java.util.SortedMap;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * CountDownLatch ：班长关门
+ * CountDownLatch ：克里斯关下门！
  *
  * @AUTHOR PizAn
  * @CREAET 2019-07-15 21:33
  */
-
 public class CountDownLatch_Demo {
 
     //先初始化7个名额
@@ -33,11 +32,20 @@ public class CountDownLatch_Demo {
         countDownLatch.await();
         //countDownLatch等待结束，主线程执行
         System.out.println("人都走了，克里斯关下门！");
-
-
     }
-
-
 }
 
+/*
 
+输出：
+
+钱同学走了~
+李同学走了~
+周同学走了~
+赵同学走了~
+林同学走了~
+安同学走了~
+张同学走了~
+人都走了，克里斯关下门！
+
+*/
