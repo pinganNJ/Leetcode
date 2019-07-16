@@ -13,7 +13,6 @@ public class CountDownLatch_Demo {
 
     //先初始化7个名额
     public static CountDownLatch countDownLatch = new CountDownLatch(7);
-
     public static void main(String[] args) throws InterruptedException {
         //来七个线程（学生）消费这个名额
         for (int i = 1; i <= 7; i++) {

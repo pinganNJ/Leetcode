@@ -12,6 +12,7 @@ import java.util.concurrent.CyclicBarrier;
 
 public class CyclicBarrier_Demo {
 
+
     //注意这里CyclicBarrier的构造函数，第一个时等待的线程个数（龙珠个数），第二个是等待结束后的执行线程（召唤神龙）
     public static CyclicBarrier cyclicBarrier = new CyclicBarrier(7,new Thread(()->{
         System.out.println("集齐了七颗龙珠，召唤神龙~");
