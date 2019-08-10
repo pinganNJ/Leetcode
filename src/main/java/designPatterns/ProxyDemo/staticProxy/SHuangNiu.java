@@ -1,5 +1,7 @@
 package designPatterns.ProxyDemo.staticProxy;
 
+import java.lang.reflect.Proxy;
+
 /**
  * 黄牛，代理类
  *
@@ -7,13 +9,13 @@ package designPatterns.ProxyDemo.staticProxy;
  * @CREAET 2019-08-02 9:30
  */
 
-public class HuangNiu implements Work {
+public class SHuangNiu implements SWork {
 
-    private Work work;
+    private SWork work;
 
     //构造函数里面传入接口，接口可以实现方法
-    public HuangNiu() {
-        work = new Seller();
+    public SHuangNiu() {
+        work = new SSeller();
     }
 
     @Override
@@ -23,7 +25,9 @@ public class HuangNiu implements Work {
         otherMethord();
     }
 
+
+
     private void otherMethord() {
-        System.out.println("我是黄牛，我实现了售货员的功能并且，嘿嘿，不用排队哦~");
+        System.out.println("我是静态黄牛，我实现了售货员的功能并且，嘿嘿，不用排队哦~");
     }
 }

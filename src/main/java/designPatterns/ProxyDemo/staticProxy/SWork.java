@@ -7,6 +7,6 @@ package designPatterns.ProxyDemo.staticProxy;
  * @CREAET 2019-08-02 9:24
  */
 
-public interface Work {
+public interface SWork {
     public void sell();
 }

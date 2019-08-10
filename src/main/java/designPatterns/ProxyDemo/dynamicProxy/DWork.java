@@ -7,6 +7,6 @@ package designPatterns.ProxyDemo.dynamicProxy;
  * @CREAET 2019-08-02 9:24
  */
 
-public interface Work {
+public interface DWork {
     public void sell();
 }

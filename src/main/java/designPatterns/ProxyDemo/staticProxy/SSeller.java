@@ -7,7 +7,7 @@ package designPatterns.ProxyDemo.staticProxy;
  * @CREAET 2019-08-02 9:26
  */
 
-public class Seller implements Work {
+public class SSeller implements SWork {
     @Override
     public void sell() {
         System.out.println("这里是被代理类，我在售票");

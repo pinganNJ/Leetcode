@@ -18,9 +18,10 @@ public class CyclicBarrier_Demo {
         System.out.println("集齐了七颗龙珠，召唤神龙~");
     }));
 
+
     public static void main(String[] args) {
         //来七个线程找龙珠，或者说，上面那个线程只等待七个线程的时间
-        for (int i = 1; i <=7 ; i++) {
+        for (int i = 1; i <=90 ; i++) {
             final int num = i;
             new Thread(()->{
                 System.out.println("第" + num + "个龙珠集齐了");
