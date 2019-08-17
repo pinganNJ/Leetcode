@@ -15,7 +15,7 @@ public class InsertSort {
             //从手头上这张牌往前检查，一张一张地对比
             for (int j = i; j > 0; j--) {
                 if (arr[j] < arr[j - 1]) {
-                    swap(arr, i, j - 1);
+                    swap(arr, j, j - 1);
 
                 }
 
