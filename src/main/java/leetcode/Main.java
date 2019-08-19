@@ -15,6 +15,8 @@ public class Main {
         double w = sortedArrays.findMedianSortedArrays(num1, num2);
         System.out.println(w);
 
+        System.out.println(Integer.MIN_VALUE+ " " +Integer.MAX_VALUE);
+
 
     }
 }
