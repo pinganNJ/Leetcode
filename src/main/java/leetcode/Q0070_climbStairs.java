@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * 70. 爬楼梯
+ * 70.爬楼梯
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-19 14:08
