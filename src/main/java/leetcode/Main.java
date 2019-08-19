@@ -14,5 +14,7 @@ public class Main {
         Q0004_findMedianSortedArrays sortedArrays = new Q0004_findMedianSortedArrays();
         double w = sortedArrays.findMedianSortedArrays(num1, num2);
         System.out.println(w);
+
+
     }
 }
