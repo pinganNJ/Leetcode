@@ -3,7 +3,7 @@ package leetcode;
 import java.nio.file.FileAlreadyExistsException;
 
 /**
- * 234. 回文链表
+ * 234.回文链表
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-19 14:33
