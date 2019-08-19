@@ -6,7 +6,7 @@ import javax.print.DocFlavor;
 import javax.swing.plaf.multi.MultiMenuItemUI;
 
 /**
- * 4. 寻找两个有序数组的中位数
+ * 4.寻找两个有序数组的中位数
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-18 20:58
