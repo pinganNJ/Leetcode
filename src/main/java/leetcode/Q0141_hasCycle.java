@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * 141. 环形链表
+ * 141.环形链表
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-19 16:53
