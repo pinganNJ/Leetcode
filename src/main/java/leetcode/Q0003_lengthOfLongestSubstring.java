@@ -15,7 +15,6 @@ import java.util.Iterator;
 //思路：我这个是最复杂的，就是从头开始遍历，然后将每次遍历的数放在一个set中计算长度，然后用list保存size，最好取出最大的size
 
 public class Q0003_lengthOfLongestSubstring {
-
     public int lengthOfLongestSubstring(String s) {
 
         char[] chars = s.toCharArray();
