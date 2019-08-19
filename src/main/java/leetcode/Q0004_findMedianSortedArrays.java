@@ -16,7 +16,6 @@ import javax.swing.plaf.multi.MultiMenuItemUI;
 //思路：其实就是归并排序的思想，将两个排好序的数组排成一个数组，时间复杂度O(m+n)
 
 public class Q0004_findMedianSortedArrays {
-
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
 
         int m = nums1.length, n = nums2.length;
