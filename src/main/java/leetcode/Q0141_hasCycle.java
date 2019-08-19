@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * 141.环形链表
+ * 141.环形链表I
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-19 16:53
@@ -11,7 +11,6 @@ package leetcode;
 //思路：很简单，用快慢指针，如果二者相遇了，说明有环
 
 public class Q0141_hasCycle {
-
     class ListNode {
         int val;
         ListNode next;
