@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * 104. 二叉树的最大深度
+ * 104.二叉树的最大深度
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-20 13:27
