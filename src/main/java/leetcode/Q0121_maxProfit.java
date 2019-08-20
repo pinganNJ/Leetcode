@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * 121. 买卖股票的最佳时机
+ * 121.买卖股票的最佳时机I
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-20 16:01
