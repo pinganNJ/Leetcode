@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 169. 求众数
+ * 169.求众数
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-20 14:52
@@ -18,8 +18,6 @@ public class Q0169_majorityElement {
         if (nums == null || nums.length < 1) {
             return -1;
         }
-
-
         HashMap<Integer, Integer> map = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
