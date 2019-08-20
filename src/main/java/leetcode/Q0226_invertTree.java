@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * 226. 翻转二叉树
+ * 226.翻转二叉树
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-20 16:32
