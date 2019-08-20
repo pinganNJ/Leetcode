@@ -3,7 +3,7 @@ package leetcode;
 import java.util.Arrays;
 
 /**
- * 136. 只出现一次的数字
+ * 136.只出现一次的数字
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-20 14:05
