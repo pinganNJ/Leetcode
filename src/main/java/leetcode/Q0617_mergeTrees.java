@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * 617. 合并二叉树
+ * 617.合并二叉树
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-20 12:22
