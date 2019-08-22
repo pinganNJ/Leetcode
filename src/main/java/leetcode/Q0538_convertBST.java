@@ -4,7 +4,7 @@ import javax.swing.plaf.nimbus.NimbusLookAndFeel;
 import java.util.Stack;
 
 /**
- * 538. 把二叉搜索树转换为累加树
+ * 538.把二叉搜索树转换为累加树
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-22 10:57
