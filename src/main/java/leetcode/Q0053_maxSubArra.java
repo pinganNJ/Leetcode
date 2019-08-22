@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * 53. 最大子序和
+ * 53.最大子序和
  *
  * @AUTHOR PizAn
  * @CREAET 2019-08-22 12:59
