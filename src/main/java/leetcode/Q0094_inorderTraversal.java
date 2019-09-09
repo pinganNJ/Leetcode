@@ -1,6 +1,7 @@
 package leetcode;
 
 import java.util.ArrayList;
+import java.util.Currency;
 import java.util.List;
 import java.util.Stack;
 
@@ -26,15 +27,30 @@ public class Q0094_inorderTraversal {
         }
     }
 
+    //迭代
     public List<Integer> inorderTraversal(TreeNode root) {
-
+        if (root == null) {
+            return new ArrayList<>();
+        }
 
         ArrayList<Integer> list = new ArrayList<>();
+        list.addAll(inorderTraversal(root.left));
+        list.add(root.val);
+        list.addAll(inorderTraversal(root.right));
+        return list;
+    }
 
+    //递归版本：先将左边全部压栈，然后弹栈，往右走
+    public List<Integer> inorderDigui(TreeNode root) {
+        if (root == null) {
+            return new ArrayList<>();
+        }
+
+        ArrayList<Integer> list = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();
+        //stack.push(root); //注意这个地方不能先压栈
 
-        //将左边的压到栈中，然后弹栈的时候往右走
-        while (!stack.isEmpty() || root != null) {
+        while (!stack.isEmpty() || root != null) {//必须要有个root != null的判定
             if (root != null) {
                 stack.push(root);
                 root = root.left;
