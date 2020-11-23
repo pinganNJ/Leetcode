@@ -1,2 +1,9 @@
-# Leetcode
-Leetcode and other coding demo，such as a DeadLock demo, a volatile demo
+# leetcode
+
+### 栈（Stack）
+<details>
+<summary>展开查看</summary>
+<pre><code>
+System.out.println("Hello to see U!");
+</code></pre>
+</details>
