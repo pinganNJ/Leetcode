@@ -16,13 +16,16 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070bf45a-f409-4d0d-8dbc-ce8b774ea274" name="Default Changelist" comment="CountDownLatch演示相关枚举类">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="070bf45a-f409-4d0d-8dbc-ce8b774ea274" name="Default Changelist" comment="316_去除重复字母,且字典序最小" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,7 +191,7 @@
       <workItem from="1565230514198" duration="1194000" />
       <workItem from="1565314937973" duration="20000" />
       <workItem from="1565416335791" duration="9581000" />
-      <workItem from="1606116022594" duration="3511000" />
+      <workItem from="1606116022594" duration="3894000" />
     </task>
     <task id="LOCAL-00001" summary="CountDownLatch ：班长关门">
       <created>1563199743515</created>
@@ -218,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563201915742</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="316_去除重复字母,且字典序最小">
+      <created>1606121051038</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606121051038</updated>
+    </task>
+    <task id="LOCAL-00006" summary="316_去除重复字母,且字典序最小">
+      <created>1606121144364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606121144364</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +246,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -240,7 +269,8 @@
     <MESSAGE value="CountDownLatch演示相关枚举类" />
     <MESSAGE value="CountDownLatch:克里斯关下门" />
     <MESSAGE value="CyclicBarrier：集齐龙珠，召唤神龙" />
-    <option name="LAST_COMMIT_MESSAGE" value="CyclicBarrier：集齐龙珠，召唤神龙" />
+    <MESSAGE value="316_去除重复字母,且字典序最小" />
+    <option name="LAST_COMMIT_MESSAGE" value="316_去除重复字母,且字典序最小" />
   </component>
   <component name="WindowStateProjectService">
     <state x="662" y="300" width="596" height="584" key="find.popup" timestamp="1606116467131">
