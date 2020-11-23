@@ -3,7 +3,5 @@
 ### 栈（Stack）
 <details>
 <summary>展开查看</summary>
-<pre><code>
-System.out.println("Hello to see U!");
-</code></pre>
+奥术大师多
 </details>
