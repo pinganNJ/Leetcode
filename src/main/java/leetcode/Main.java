@@ -9,12 +9,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-
-        int a = 12;
-
-
-        System.out.println(Integer.toBinaryString(a));
-
-
+        String s = "cbacdcbc" ;
+        Q0316_RemoveDuplicateLetters removeDup = new Q0316_RemoveDuplicateLetters();
+        String s1 = removeDup.removeDuplicateLetters(s);
+        System.out.println(s1);
     }
 }
