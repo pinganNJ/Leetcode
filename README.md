@@ -7,5 +7,6 @@
 [3.最小栈（155）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/155.%E6%9C%80%E5%B0%8F%E6%A0%88%EF%BC%88Min%20Stack%EF%BC%89.md)  
 [4.用栈实现队列（232）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/232.%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)  
 [5.用队列实现栈（225）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/225.%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)  
-[6.下一个更大的元素1（496）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/496.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E7%9A%84%E5%85%83%E7%B4%A01.md)
+[6.下一个更大的元素1（496）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/496.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E7%9A%84%E5%85%83%E7%B4%A01.md)  
+[7.下一个更大的元素2（503）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/503.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20II.md)
 
