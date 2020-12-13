@@ -9,5 +9,6 @@
 [5.用队列实现栈（225）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/225.%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)  
 [6.下一个更大的元素1（496）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/496.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E7%9A%84%E5%85%83%E7%B4%A01.md)  
 [7.下一个更大的元素2（503）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/503.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20II.md)  
-[8.棒球比赛（682）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/682.%20%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B.md)
+[8.棒球比赛（682）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/682.%20%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B.md)  
+[9.比较含退格的字符串（844）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/844.%20%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
