@@ -10,4 +10,5 @@
 [6.下一个更大的元素1（496）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/496.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E7%9A%84%E5%85%83%E7%B4%A01.md)  
 [7.下一个更大的元素2（503）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/503.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20II.md)  
 [8.棒球比赛（682）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/682.%20%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B.md)  
-[9.比较含退格的字符串（844）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/844.%20%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+[9.比较含退格的字符串（844）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/844.%20%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)  
+[10.整理字符串（1544）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/1544.%20%E6%95%B4%E7%90%86%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
