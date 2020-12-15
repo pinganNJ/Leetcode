@@ -26,8 +26,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="070bf45a-f409-4d0d-8dbc-ce8b774ea274" name="Default Changelist" comment="1047. 删除字符串中的所有相邻重复项">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/note/栈_Stack/1598. 文件夹操作日志搜集器.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/EMO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/EMO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/sort/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EMO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EMO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,18 +90,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\stackAndOthers\Leetcode\src\main\note\栈_Stack" />
       <recent name="D:\SoftwareContainer\IDEA\IDEA_projects\leetcode\src\main\note\栈_Stack" />
+      <recent name="E:\stackAndOthers\Leetcode\src\main\note\栈_Stack" />
       <recent name="E:\IDEAData\leetcodeProject\src\main" />
       <recent name="E:\IDEAData\leetcodeProject\src\main\java\designPatterns\dynamicProxy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\stackAndOthers\Leetcode\src\main\note\栈_Stack" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="designPatterns.dynamicProxy" />
       <recent name="leetcodeCoding" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\stackAndOthers\Leetcode\src\main\note\栈_Stack" />
     </key>
   </component>
   <component name="RunManager" selected="Application.EMO">
@@ -275,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608007976503</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="1441. 用栈操作构建数组">
+      <created>1608040909128</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608040909128</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,58 +335,7 @@
     <MESSAGE value="Q0316_去除重复字母,且字典序最小" />
     <MESSAGE value="503.下一个更大元素II" />
     <MESSAGE value="1047. 删除字符串中的所有相邻重复项" />
-    <option name="LAST_COMMIT_MESSAGE" value="1047. 删除字符串中的所有相邻重复项" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="333" y="0" key="CommitChangelistDialog2" timestamp="1606315521273">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="333" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606315521273" />
-    <state x="184" y="86" key="DiffContextDialog" timestamp="1606699113219">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606699113219" />
-    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1607326974201">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607326974201" />
-    <state x="748" y="222" key="RollbackChangesDialog" timestamp="1607520298712">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="748" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607520298712" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1608008069993">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608008069993" />
-    <state x="727" y="235" key="VCS.ChangeListViewerDialog" timestamp="1606698948422">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="727" y="235" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606698948422" />
-    <state x="451" y="183" key="Vcs.Push.Dialog.v2" timestamp="1607520453998">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606315546492" />
-    <state x="451" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607520453998" />
-    <state x="541" y="146" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607326887752">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="541" y="146" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607326887752" />
-    <state x="716" y="410" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608007920790">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606315469911" />
-    <state x="716" y="410" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608007920790" />
-    <state x="662" y="300" width="678" height="616" key="find.popup" timestamp="1606711965866">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="662" y="300" width="678" height="616" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606711965866" />
-    <state x="666" y="307" key="git4idea.merge.GitPullDialog" timestamp="1606699152331">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="666" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606699152331" />
-    <state x="334" y="130" key="new project wizard" timestamp="1607326751510">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607326751510" />
+    <MESSAGE value="1441. 用栈操作构建数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="1441. 用栈操作构建数组" />
   </component>
 </project>
