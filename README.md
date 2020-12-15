@@ -13,4 +13,6 @@
 [9.比较含退格的字符串（844）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/844.%20%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)  
 [10.整理字符串（1544）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/1544.%20%E6%95%B4%E7%90%86%E5%AD%97%E7%AC%A6%E4%B8%B2.md)  
 [11.删除字符串中的所有相邻重复项（1047）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/1047.%20%E5%88%A0%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E7%9B%B8%E9%82%BB%E9%87%8D%E5%A4%8D%E9%A1%B9.md)  
-[12.用栈操作构建数组（1441）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/1441.%20%E7%94%A8%E6%A0%88%E6%93%8D%E4%BD%9C%E6%9E%84%E5%BB%BA%E6%95%B0%E7%BB%84.md)
+[12.用栈操作构建数组（1441）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/1441.%20%E7%94%A8%E6%A0%88%E6%93%8D%E4%BD%9C%E6%9E%84%E5%BB%BA%E6%95%B0%E7%BB%84.md)  
+[13.文件夹操作日志搜集器（1598）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/1598.%20%E6%96%87%E4%BB%B6%E5%A4%B9%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97%E6%90%9C%E9%9B%86%E5%99%A8.md)  
+[14.删除最外层的括号（1021）](https://github.com/pinganNJ/Leetcode/blob/master/src/main/note/%E6%A0%88_Stack/1021.%20%E5%88%A0%E9%99%A4%E6%9C%80%E5%A4%96%E5%B1%82%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
