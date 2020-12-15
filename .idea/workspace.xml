@@ -25,13 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070bf45a-f409-4d0d-8dbc-ce8b774ea274" name="Default Changelist" comment="1047. 删除字符串中的所有相邻重复项">
-      <change afterPath="$PROJECT_DIR$/src/main/note/栈_Stack/1598. 文件夹操作日志搜集器.md" afterDir="false" />
+    <list default="true" id="070bf45a-f409-4d0d-8dbc-ce8b774ea274" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/note/栈_Stack/1021. 删除最外层的括号.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/EMO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/EMO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/sort/InsertSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EMO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EMO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608040909128</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1598. 文件夹操作日志搜集器">
+      <created>1608042357565</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608042357565</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,6 +340,7 @@
     <MESSAGE value="503.下一个更大元素II" />
     <MESSAGE value="1047. 删除字符串中的所有相邻重复项" />
     <MESSAGE value="1441. 用栈操作构建数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="1441. 用栈操作构建数组" />
+    <MESSAGE value="1598. 文件夹操作日志搜集器" />
+    <option name="LAST_COMMIT_MESSAGE" value="1598. 文件夹操作日志搜集器" />
   </component>
 </project>
