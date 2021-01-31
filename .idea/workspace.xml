@@ -26,7 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="070bf45a-f409-4d0d-8dbc-ce8b774ea274" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/note/字符串_String/680. 验证回文字符串 Ⅱ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/note/字符串_String/709. 转换成小写字母.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -327,7 +327,35 @@
       <option name="project" value="LOCAL" />
       <updated>1612025173447</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="增加总结目录，字符串目录">
+      <created>1612060574740</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1612060574740</updated>
+    </task>
+    <task id="LOCAL-00019" summary="增加总结目录，字符串目录">
+      <created>1612061494968</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1612061494968</updated>
+    </task>
+    <task id="LOCAL-00020" summary="增加总结目录，字符串目录">
+      <created>1612072760756</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1612072760756</updated>
+    </task>
+    <task id="LOCAL-00021" summary="增加总结目录，字符串目录">
+      <created>1612095418447</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1612095418447</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,16 +415,29 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/Mainaaa.java</url>
-          <line>56</line>
+          <line>49</line>
           <properties class="leetcode.Mainaaa" method="lengthOfLastWord">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/Mainaaa.java</url>
+          <line>63</line>
+          <properties class="leetcode.Mainaaa" method="reverseStr">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/Mainaaa.java</url>
-          <line>57</line>
+          <line>50</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/Mainaaa.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
