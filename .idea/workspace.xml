@@ -26,8 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="070bf45a-f409-4d0d-8dbc-ce8b774ea274" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/note/栈_Stack/1021. 删除最外层的括号.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/note/字符串_String/680. 验证回文字符串 Ⅱ.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,21 +75,23 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/note/栈_Stack" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/note/字符串_String" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftwareContainer\IDEA\IDEA_projects\leetcode\src\main\note\字符串_String" />
+      <recent name="D:\SoftwareContainer\IDEA\IDEA_projects\leetcode\src\main\note\总结_Summary" />
+      <recent name="D:\SoftwareContainer\IDEA\IDEA_projects\leetcode\src\main\note\总结_summary" />
       <recent name="D:\SoftwareContainer\IDEA\IDEA_projects\leetcode\src\main\note\栈_Stack" />
       <recent name="E:\stackAndOthers\Leetcode\src\main\note\栈_Stack" />
-      <recent name="E:\IDEAData\leetcodeProject\src\main" />
-      <recent name="E:\IDEAData\leetcodeProject\src\main\java\designPatterns\dynamicProxy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\stackAndOthers\Leetcode\src\main\note\栈_Stack" />
@@ -101,7 +102,7 @@
       <recent name="leetcodeCoding" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EMO">
+  <component name="RunManager" selected="Application.Mainaaa">
     <configuration name="EMO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EMO" />
       <module name="main" />
@@ -135,6 +136,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Mainaaa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Mainaaa" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.SortMain" />
       <module name="main" />
@@ -148,29 +162,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeThreadPrintABCMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="juc.ThreeThreadPrintABCMain" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="juc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mainaaa" />
         <item itemvalue="Application.EMO" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SortMain" />
-        <item itemvalue="Application.ThreeThreadPrintABCMain" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -290,7 +292,42 @@
       <option name="project" value="LOCAL" />
       <updated>1608042357565</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1021. 删除最外层的括号">
+      <created>1608049784166</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608049784166</updated>
+    </task>
+    <task id="LOCAL-00014" summary="增加总结目录，字符串目录">
+      <created>1611824516894</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611824516894</updated>
+    </task>
+    <task id="LOCAL-00015" summary="增加总结目录，字符串目录">
+      <created>1611824778546</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611824778546</updated>
+    </task>
+    <task id="LOCAL-00016" summary="增加总结目录，字符串目录">
+      <created>1611988412064</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611988412064</updated>
+    </task>
+    <task id="LOCAL-00017" summary="增加总结目录，字符串目录">
+      <created>1612025173446</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1612025173447</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,6 +378,32 @@
     <MESSAGE value="1047. 删除字符串中的所有相邻重复项" />
     <MESSAGE value="1441. 用栈操作构建数组" />
     <MESSAGE value="1598. 文件夹操作日志搜集器" />
-    <option name="LAST_COMMIT_MESSAGE" value="1598. 文件夹操作日志搜集器" />
+    <MESSAGE value="1021. 删除最外层的括号" />
+    <MESSAGE value="增加总结目录，字符串目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加总结目录，字符串目录" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/Mainaaa.java</url>
+          <line>56</line>
+          <properties class="leetcode.Mainaaa" method="lengthOfLastWord">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/Mainaaa.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="coder" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
